@@ -57,7 +57,7 @@ python cert_converter.py
 
 ## 🖼️ Screenshot
 
-*(Optional: Add a screenshot of your running application here)*
+![Certificate Converter](https://github.com/hadesninja/Certificate-Converter/blob/master/screenshots/certificate_converter.png)
 
 ---
 
